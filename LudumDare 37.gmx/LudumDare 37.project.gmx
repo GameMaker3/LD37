@@ -14,6 +14,9 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_vajalik.gml</script>
+  </scripts>
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\object1</object>
