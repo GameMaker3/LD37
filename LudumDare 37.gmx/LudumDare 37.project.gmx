@@ -5,26 +5,12 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
-    <sprite>sprites\sprite1</sprite>
-    <sprite>sprites\sprite2</sprite>
-    <sprite>sprites\sprite3</sprite>
-    <sprite>sprites\ten_siia_spride_ja_siis_sa_naed</sprite>
-  </sprites>
+  <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\scr_vajalik.gml</script>
-  </scripts>
-  <objects name="objects">
-    <object>objects\object0</object>
-    <object>objects\object1</object>
-    <object>objects\object2</object>
-  </objects>
-  <rooms name="rooms">
-    <room>rooms\room0</room>
-  </rooms>
+  <scripts name="scripts"/>
+  <objects name="objects"/>
+  <rooms name="rooms"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
